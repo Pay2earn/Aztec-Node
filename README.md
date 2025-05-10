@@ -165,7 +165,7 @@ To stop and remove your Aztec node along with all related data:
 
 ```bash
 docker compose down -v --remove-orphans
-sudo rm -rf ./data
+sudo rm -rf /root/Aztec-Node/data
 ```
 This will completely wipe your node’s state and storage, allowing you to start fresh.
 
