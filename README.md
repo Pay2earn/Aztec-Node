@@ -41,6 +41,11 @@ cd Aztec-Node
 chmod +x aztec.sh
 ```
 
+* Open a screen to run it in background
+```bash
+screen -S aztec
+```
+
 * Run with sudo
 ```bash
 sudo ./aztec.sh
