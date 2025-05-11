@@ -1,11 +1,7 @@
-## 🙏 Credits
+## ⚠️ Credits
 
-This script is based on:
-
-- [0xmoei's Aztec setup guide](https://github.com/0xmoei/aztec-network)
-- [airdropinsiders' Aztec validator script](https://github.com/airdropinsiders/Aztec-Node)
-
-Merged, modified and maintained by [Pay2earn]
+This script is adapted from the work of [0xmoei](https://github.com/0xmoei/aztec-network) and [airdropinsiders](https://github.com/airdropinsiders/Aztec-Node).  
+All original rights and acknowledgements belong to the respective authors.
 
 ---
 
@@ -230,6 +226,16 @@ aztec add-l1-validator \
 Replace `RPC_URL`, `your-validator-address` & 2x `your-validator-address`, then proceed
 
 * Note that there's a daily quota of 10 validator registration per day, if you get error, try again tommorrow.
+
+---
+
+## 🙏 Credits
+
+Parts of this script are based on public repositories from:
+
+- [0xmoei](https://github.com/0xmoei/aztec-network)
+- [airdropinsiders](https://github.com/airdropinsiders/Aztec-Node)
+
 
 
 
