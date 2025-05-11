@@ -1,3 +1,14 @@
+## 🙏 Credits
+
+This script is based on:
+
+- [0xmoei's Aztec setup guide](https://github.com/0xmoei/aztec-network)
+- [airdropinsiders' Aztec validator script](https://github.com/airdropinsiders/Aztec-Node)
+
+Merged, modified and maintained by [Pay2earn]
+
+---
+
 # Aztec Sequencer Setup - Alpha Testnet
 
 This repository contains an automated script for setting up and running an Aztec Sequencer node on the Alpha Testnet.  
