@@ -104,6 +104,8 @@ You may also use:
 
 [Chainstack](https://chainstack.com/)
 
+[BlockPI](https://blockpi.io/)
+
 Follow the provider’s process to get Sepolia RPC URLs.
 
 ---
