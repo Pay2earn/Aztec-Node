@@ -126,6 +126,7 @@ services:
     ports:
       - "8080:8080"
       - "40400:40400"
+      - "40400:40400/udp"
     environment:
       - ETHEREUM_HOSTS=\${ETHEREUM_HOSTS}
       - L1_CONSENSUS_HOST_URLS=\${L1_CONSENSUS_HOST_URLS}
