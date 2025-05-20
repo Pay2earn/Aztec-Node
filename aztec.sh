@@ -119,7 +119,6 @@ chmod +x entrypoint.sh
 
 # Docker Compose
 cat > docker-compose.yml <<EOF
-version: "3.9"
 services:
   node:
     image: aztecprotocol/aztec:0.85.0-alpha-testnet.8
