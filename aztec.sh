@@ -121,7 +121,7 @@ chmod +x entrypoint.sh
 cat > docker-compose.yml <<EOF
 services:
   node:
-    image: aztecprotocol/aztec:0.85.0-alpha-testnet.8
+    image: aztecprotocol/aztec:alpha-testnet
     ports:
       - "8080:8080"
       - "40400:40400"
